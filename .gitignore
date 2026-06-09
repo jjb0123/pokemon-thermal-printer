@@ -1,0 +1,13 @@
+# Build output
+_build/
+
+# Compiled objects and deps
+*.o
+*.d
+*.elf
+*.hex
+*.bin
+*.map
+
+# macOS
+.DS_Store
